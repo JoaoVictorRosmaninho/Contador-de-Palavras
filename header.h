@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h>
 
 #define MAXSIZE 100
 #define MAX_INPUT_NAME 15
