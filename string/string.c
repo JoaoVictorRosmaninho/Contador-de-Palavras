@@ -1,7 +1,6 @@
 #ifndef HEADER_H
 # define HEADER_H
 # include "../header.h"
-#include <ctype.h>
 #endif
 unsigned int str_strlen(char *str) {
     char *temp = str;
